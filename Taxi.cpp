@@ -27,6 +27,7 @@ void qsort(int* mas, int* mas_index, int size) {
 	}
 }
 
+
 int main()
 {
 	setlocale(LC_ALL, "Russian");
